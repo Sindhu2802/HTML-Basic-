@@ -1,0 +1,36 @@
+
+<html>
+    <head>
+        <title>
+             Life Struggle Motivation
+        </title>
+    </head>
+    <body bgcolor = "lightyellow">
+        <h2>Life Struggle-One day We will win</h2>
+
+        <!--img1-->
+        <img src ="C:\Users\SV\Desktop\Life3.jpeg"
+        alt="Climbing shows Lifes struggles" width="300" height="200" 
+        title="Keep Climbing , struggles make us stronger">
+
+        <!--img2-->
+        <img src ="c:\Users\SV\Desktop\Life2.jpeg"
+        alt="Sunrise after struggles" width="300" height="200" 
+        title="After darkness the sunalways rises">
+
+        <!--img3-->
+        <img src ="c:\Users\SV\Desktop\Life1.jpeg"
+        alt="Winning after Struggle" width="300" height="200" 
+        title="One day , your struggle will bring victory">
+
+        <p>
+           Life is a journey filledd with struggle.But remember <b>One day we will Winning</b>
+           Every hardship makes us stronger, every challenge shapes us.
+           Never give up your victory is waiting ahead.
+
+        </p>
+
+        
+
+    </body>
+</html>
